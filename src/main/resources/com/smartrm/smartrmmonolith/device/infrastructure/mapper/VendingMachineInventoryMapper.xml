@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper
+        namespace="com.smartrm.smartrmmonolith.device.infrastructure.mapper.VendingMachineInventoryMapper">
+    <insert id="insertBatch">
+        insert into vending_machine_inventory (machine_id, commodity_id, `count`) values
+        <foreach collection="list" item="item" separator="," index="index">
+            (#{item.machineId, jdbcType=BIGINT},
+            #{item.commodityId, jdbcType=VARCHAR},
+            #{item.count, jdbcType=INTEGER})
+        </foreach>
+    </insert>
+</mapper>

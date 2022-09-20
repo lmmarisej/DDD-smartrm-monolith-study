@@ -1,0 +1,1101 @@
+{
+  "secondLevelCategory": "粮油调味",
+  "description": null,
+  "commodityId": "1000001",
+  "label": [],
+  "imageUrl": {
+    "url": "1000001.jpg",
+    "width": null,
+    "height": null,
+    "fileSize": null,
+    "fileMd5": null
+  },
+  "commodityName": "星华源 纯燕麦速食面140g",
+  "firstLevelCategory": "食品饮料",
+  "thirdLevelCategory": "方便食品",
+  "price": 10.0,
+  "barCode": "7069488225951"
+}
+{
+  "secondLevelCategory": "粮油调味",
+  "description": null,
+  "commodityId": "1000002",
+  "label": [
+    "儿童"
+  ],
+  "imageUrl": {
+    "url": "1000002.jpg",
+    "width": null,
+    "height": null,
+    "fileSize": null,
+    "fileMd5": null
+  },
+  "commodityName": "寿桃牌儿童面 260g",
+  "firstLevelCategory": "食品饮料",
+  "thirdLevelCategory": "方便食品",
+  "price": 5.5,
+  "barCode": "9401241465345"
+}
+{
+  "secondLevelCategory": "粮油调味",
+  "description": null,
+  "commodityId": "1000003",
+  "label": [],
+  "imageUrl": {
+    "url": "1000003.jpg",
+    "width": null,
+    "height": null,
+    "fileSize": null,
+    "fileMd5": null
+  },
+  "commodityName": "【咸阳馆】宝鸡岐山擀面皮280g",
+  "firstLevelCategory": "食品饮料",
+  "thirdLevelCategory": "方便食品",
+  "price": 3.0,
+  "barCode": "1684571693535"
+}
+{
+  "secondLevelCategory": "粮油调味",
+  "description": null,
+  "commodityId": "1000004",
+  "label": [],
+  "imageUrl": {
+    "url": "1000004.jpg",
+    "width": null,
+    "height": null,
+    "fileSize": null,
+    "fileMd5": null
+  },
+  "commodityName": "老刘头淮南牛肉汤粉丝香辣味",
+  "firstLevelCategory": "食品饮料",
+  "thirdLevelCategory": "方便食品",
+  "price": 5.5,
+  "barCode": "7287499624517"
+}
+{
+  "secondLevelCategory": "粮油调味",
+  "description": null,
+  "commodityId": "1000005",
+  "label": [],
+  "imageUrl": {
+    "url": "1000005.jpg",
+    "width": null,
+    "height": null,
+    "fileSize": null,
+    "fileMd5": null
+  },
+  "commodityName": "老刘头淮南牛肉汤粉丝原味",
+  "firstLevelCategory": "食品饮料",
+  "thirdLevelCategory": "方便食品",
+  "price": 9.5,
+  "barCode": "2980646125166"
+}
+{
+  "secondLevelCategory": "粮油调味",
+  "description": null,
+  "commodityId": "1000006",
+  "label": [],
+  "imageUrl": {
+    "url": "1000006.jpg",
+    "width": null,
+    "height": null,
+    "fileSize": null,
+    "fileMd5": null
+  },
+  "commodityName": "古龙食品 鱼罐头 丁香鱼110g",
+  "firstLevelCategory": "食品饮料",
+  "thirdLevelCategory": "方便食品",
+  "price": 3.5,
+  "barCode": "3929790345034"
+}
+{
+  "secondLevelCategory": "粮油调味",
+  "description": null,
+  "commodityId": "1000007",
+  "label": [
+    "辣"
+  ],
+  "imageUrl": {
+    "url": "1000007.jpg",
+    "width": null,
+    "height": null,
+    "fileSize": null,
+    "fileMd5": null
+  },
+  "commodityName": "舌里嗨吃家正宗酸辣粉110g",
+  "firstLevelCategory": "食品饮料",
+  "thirdLevelCategory": "方便食品",
+  "price": 3.0,
+  "barCode": "2865962778885"
+}
+{
+  "secondLevelCategory": "粮油调味",
+  "description": null,
+  "commodityId": "1000008",
+  "label": [],
+  "imageUrl": {
+    "url": "1000008.jpg",
+    "width": null,
+    "height": null,
+    "fileSize": null,
+    "fileMd5": null
+  },
+  "commodityName": "拉面说咖喱牛肉乌冬面",
+  "firstLevelCategory": "食品饮料",
+  "thirdLevelCategory": "方便食品",
+  "price": 9.0,
+  "barCode": "7016538642087"
+}
+{
+  "secondLevelCategory": "粮油调味",
+  "description": null,
+  "commodityId": "1000009",
+  "label": [],
+  "imageUrl": {
+    "url": "1000009.png",
+    "width": null,
+    "height": null,
+    "fileSize": null,
+    "fileMd5": null
+  },
+  "commodityName": "上海美味肉蓉面100g",
+  "firstLevelCategory": "食品饮料",
+  "thirdLevelCategory": "方便食品",
+  "price": 6.5,
+  "barCode": "9666554085439"
+}
+{
+  "secondLevelCategory": "粮油调味",
+  "description": null,
+  "commodityId": "1000010",
+  "label": [],
+  "imageUrl": {
+    "url": "1000010.jpg",
+    "width": null,
+    "height": null,
+    "fileSize": null,
+    "fileMd5": null
+  },
+  "commodityName": "大汉口 热干面408g",
+  "firstLevelCategory": "食品饮料",
+  "thirdLevelCategory": "方便食品",
+  "price": 4.5,
+  "barCode": "3242855230032"
+}
+{
+  "secondLevelCategory": "粮油调味",
+  "description": null,
+  "commodityId": "1000011",
+  "label": [],
+  "imageUrl": {
+    "url": "1000011.jpg",
+    "width": null,
+    "height": null,
+    "fileSize": null,
+    "fileMd5": null
+  },
+  "commodityName": "穗燕牌香菇鸡汁味面",
+  "firstLevelCategory": "食品饮料",
+  "thirdLevelCategory": "方便食品",
+  "price": 10.0,
+  "barCode": "2437911694992"
+}
+{
+  "secondLevelCategory": "粮油调味",
+  "description": null,
+  "commodityId": "1000012",
+  "label": [],
+  "imageUrl": {
+    "url": "1000012.jpg",
+    "width": null,
+    "height": null,
+    "fileSize": null,
+    "fileMd5": null
+  },
+  "commodityName": "康师傅Express速达面馆246g香辣",
+  "firstLevelCategory": "食品饮料",
+  "thirdLevelCategory": "方便食品",
+  "price": 4.5,
+  "barCode": "1120967423401"
+}
+{
+  "secondLevelCategory": "粮油调味",
+  "description": null,
+  "commodityId": "1000013",
+  "label": [],
+  "imageUrl": {
+    "url": "1000013.jpg",
+    "width": null,
+    "height": null,
+    "fileSize": null,
+    "fileMd5": null
+  },
+  "commodityName": "康师傅Express速达面馆246g红烧牛肉",
+  "firstLevelCategory": "食品饮料",
+  "thirdLevelCategory": "方便食品",
+  "price": 5.5,
+  "barCode": "7630329574915"
+}
+{
+  "secondLevelCategory": "粮油调味",
+  "description": null,
+  "commodityId": "1000014",
+  "label": [],
+  "imageUrl": {
+    "url": "1000014.jpg",
+    "width": null,
+    "height": null,
+    "fileSize": null,
+    "fileMd5": null
+  },
+  "commodityName": "康师傅Express速达面馆246g香辣牛肉",
+  "firstLevelCategory": "食品饮料",
+  "thirdLevelCategory": "方便食品",
+  "price": 3.0,
+  "barCode": "7714730925230"
+}
+{
+  "secondLevelCategory": "粮油调味",
+  "description": null,
+  "commodityId": "1000015",
+  "label": [],
+  "imageUrl": {
+    "url": "1000015.jpg",
+    "width": null,
+    "height": null,
+    "fileSize": null,
+    "fileMd5": null
+  },
+  "commodityName": "康师傅Express速达面馆私房红烧牛肉面*4",
+  "firstLevelCategory": "食品饮料",
+  "thirdLevelCategory": "方便食品",
+  "price": 2.5,
+  "barCode": "7651547428147"
+}
+{
+  "secondLevelCategory": "粮油调味",
+  "description": null,
+  "commodityId": "1000016",
+  "label": [],
+  "imageUrl": {
+    "url": "1000016.jpg",
+    "width": null,
+    "height": null,
+    "fileSize": null,
+    "fileMd5": null
+  },
+  "commodityName": "康师傅Express速达面馆私房金牌香辣红烧牛肉面",
+  "firstLevelCategory": "食品饮料",
+  "thirdLevelCategory": "方便食品",
+  "price": 6.5,
+  "barCode": "1619293616153"
+}
+{
+  "secondLevelCategory": "粮油调味",
+  "description": null,
+  "commodityId": "1000017",
+  "label": [],
+  "imageUrl": {
+    "url": "1000017.jpg",
+    "width": null,
+    "height": null,
+    "fileSize": null,
+    "fileMd5": null
+  },
+  "commodityName": "蒙清燕麦面条",
+  "firstLevelCategory": "食品饮料",
+  "thirdLevelCategory": "方便食品",
+  "price": 2.0,
+  "barCode": "5773016138474"
+}
+{
+  "secondLevelCategory": "粮油调味",
+  "description": null,
+  "commodityId": "1000018",
+  "label": [],
+  "imageUrl": {
+    "url": "1000018.jpg",
+    "width": null,
+    "height": null,
+    "fileSize": null,
+    "fileMd5": null
+  },
+  "commodityName": "亚兰掌心脆老乡方便面21g",
+  "firstLevelCategory": "食品饮料",
+  "thirdLevelCategory": "方便食品",
+  "price": 8.0,
+  "barCode": "2335570736688"
+}
+{
+  "secondLevelCategory": "粮油调味",
+  "description": null,
+  "commodityId": "1000019",
+  "label": [],
+  "imageUrl": {
+    "url": "1000019.jpg",
+    "width": null,
+    "height": null,
+    "fileSize": null,
+    "fileMd5": null
+  },
+  "commodityName": "螺王府柳州正宗螺蛳粉320g",
+  "firstLevelCategory": "食品饮料",
+  "thirdLevelCategory": "方便食品",
+  "price": 4.5,
+  "barCode": "1504310956449"
+}
+{
+  "secondLevelCategory": "休闲食品",
+  "description": null,
+  "commodityId": "1000020",
+  "label": [],
+  "imageUrl": {
+    "url": "1000020.jpg",
+    "width": null,
+    "height": null,
+    "fileSize": null,
+    "fileMd5": null
+  },
+  "commodityName": "嘉士利芝麻甜薄脆葱油饼干",
+  "firstLevelCategory": "食品饮料",
+  "thirdLevelCategory": "饼干蛋糕",
+  "price": 2.0,
+  "barCode": "1459656006818"
+}
+{
+  "secondLevelCategory": "休闲食品",
+  "description": null,
+  "commodityId": "1000021",
+  "label": [],
+  "imageUrl": {
+    "url": "1000021.jpg",
+    "width": null,
+    "height": null,
+    "fileSize": null,
+    "fileMd5": null
+  },
+  "commodityName": "口水娃蒸豆干嫩豆腐干烧烤味500g",
+  "firstLevelCategory": "食品饮料",
+  "thirdLevelCategory": "休闲零食",
+  "price": 3.5,
+  "barCode": "9092915309360"
+}
+{
+  "secondLevelCategory": "休闲食品",
+  "description": null,
+  "commodityId": "1000022",
+  "label": [
+    "儿童"
+  ],
+  "imageUrl": {
+    "url": "1000022.jpg",
+    "width": null,
+    "height": null,
+    "fileSize": null,
+    "fileMd5": null
+  },
+  "commodityName": "森林乐舞鸡蛋卷270g",
+  "firstLevelCategory": "食品饮料",
+  "thirdLevelCategory": "饼干蛋糕",
+  "price": 4.5,
+  "barCode": "7920760184103"
+}
+{
+  "secondLevelCategory": "休闲食品",
+  "description": null,
+  "commodityId": "1000023",
+  "label": [],
+  "imageUrl": {
+    "url": "1000023.jpg",
+    "width": null,
+    "height": null,
+    "fileSize": null,
+    "fileMd5": null
+  },
+  "commodityName": "口水娃香酥糯米锅巴250g",
+  "firstLevelCategory": "食品饮料",
+  "thirdLevelCategory": "休闲零食",
+  "price": 5.5,
+  "barCode": "1102129809471"
+}
+{
+  "secondLevelCategory": "休闲食品",
+  "description": null,
+  "commodityId": "1000024",
+  "label": [],
+  "imageUrl": {
+    "url": "1000024.jpg",
+    "width": null,
+    "height": null,
+    "fileSize": null,
+    "fileMd5": null
+  },
+  "commodityName": "稻香村芝麻瓦片160g",
+  "firstLevelCategory": "食品饮料",
+  "thirdLevelCategory": "休闲零食",
+  "price": 9.5,
+  "barCode": "7504097295769"
+}
+{
+  "secondLevelCategory": "休闲食品",
+  "description": null,
+  "commodityId": "1000025",
+  "label": [
+    "辣"
+  ],
+  "imageUrl": {
+    "url": "1000025.jpg",
+    "width": null,
+    "height": null,
+    "fileSize": null,
+    "fileMd5": null
+  },
+  "commodityName": "有友 泡凤爪 山椒味 220g",
+  "firstLevelCategory": "食品饮料",
+  "thirdLevelCategory": "休闲零食",
+  "price": 2.0,
+  "barCode": "8287794411427"
+}
+{
+  "secondLevelCategory": "营养辅食",
+  "description": null,
+  "commodityId": "1000026",
+  "label": [
+    "健身",
+    "代餐"
+  ],
+  "imageUrl": {
+    "url": "1000026.jpg",
+    "width": null,
+    "height": null,
+    "fileSize": null,
+    "fileMd5": null
+  },
+  "commodityName": "代餐饼干 SCIQ (奶香味)",
+  "firstLevelCategory": "母婴",
+  "thirdLevelCategory": "宝宝零食",
+  "price": 3.5,
+  "barCode": "7202081107014"
+}
+{
+  "secondLevelCategory": "休闲食品",
+  "description": null,
+  "commodityId": "1000027",
+  "label": [],
+  "imageUrl": {
+    "url": "1000027.jpg",
+    "width": null,
+    "height": null,
+    "fileSize": null,
+    "fileMd5": null
+  },
+  "commodityName": "大富乡绿豆糕",
+  "firstLevelCategory": "食品饮料",
+  "thirdLevelCategory": "休闲零食",
+  "price": 2.5,
+  "barCode": "1924049002950"
+}
+{
+  "secondLevelCategory": "休闲食品",
+  "description": null,
+  "commodityId": "1000028",
+  "label": [],
+  "imageUrl": {
+    "url": "1000028.jpg",
+    "width": null,
+    "height": null,
+    "fileSize": null,
+    "fileMd5": null
+  },
+  "commodityName": "大富乡绿豆糕",
+  "firstLevelCategory": "食品饮料",
+  "thirdLevelCategory": "休闲零食",
+  "price": 7.5,
+  "barCode": "8153107713130"
+}
+{
+  "secondLevelCategory": "休闲食品",
+  "description": null,
+  "commodityId": "1000029",
+  "label": [],
+  "imageUrl": {
+    "url": "1000029.jpg",
+    "width": null,
+    "height": null,
+    "fileSize": null,
+    "fileMd5": null
+  },
+  "commodityName": "西安饭庄大米锅巴350g牛肉味",
+  "firstLevelCategory": "食品饮料",
+  "thirdLevelCategory": "休闲零食",
+  "price": 3.0,
+  "barCode": "4469754626517"
+}
+{
+  "secondLevelCategory": "休闲食品",
+  "description": null,
+  "commodityId": "1000030",
+  "label": [],
+  "imageUrl": {
+    "url": "1000030.jpg",
+    "width": null,
+    "height": null,
+    "fileSize": null,
+    "fileMd5": null
+  },
+  "commodityName": "660g绍兴特产小吃手工切糕",
+  "firstLevelCategory": "食品饮料",
+  "thirdLevelCategory": "休闲零食",
+  "price": 10.0,
+  "barCode": "4290989074137"
+}
+{
+  "secondLevelCategory": "休闲食品",
+  "description": null,
+  "commodityId": "1000031",
+  "label": [],
+  "imageUrl": {
+    "url": "1000031.jpg",
+    "width": null,
+    "height": null,
+    "fileSize": null,
+    "fileMd5": null
+  },
+  "commodityName": "川洋葱香味锅巴70g",
+  "firstLevelCategory": "食品饮料",
+  "thirdLevelCategory": "休闲零食",
+  "price": 6.0,
+  "barCode": "1669892736930"
+}
+{
+  "secondLevelCategory": "休闲食品",
+  "description": null,
+  "commodityId": "1000032",
+  "label": [
+    "优质"
+  ],
+  "imageUrl": {
+    "url": "1000032.jpg",
+    "width": null,
+    "height": null,
+    "fileSize": null,
+    "fileMd5": null
+  },
+  "commodityName": "皮皮虾干80g",
+  "firstLevelCategory": "食品饮料",
+  "thirdLevelCategory": "休闲零食",
+  "price": 6.0,
+  "barCode": "2289058879084"
+}
+{
+  "secondLevelCategory": "休闲食品",
+  "description": null,
+  "commodityId": "1000033",
+  "label": [],
+  "imageUrl": {
+    "url": "1000033.jpg",
+    "width": null,
+    "height": null,
+    "fileSize": null,
+    "fileMd5": null
+  },
+  "commodityName": "张飞夹心豆卷500g",
+  "firstLevelCategory": "食品饮料",
+  "thirdLevelCategory": "休闲零食",
+  "price": 7.5,
+  "barCode": "4378347470663"
+}
+{
+  "secondLevelCategory": "休闲食品",
+  "description": null,
+  "commodityId": "1000034",
+  "label": [],
+  "imageUrl": {
+    "url": "1000034.jpg",
+    "width": null,
+    "height": null,
+    "fileSize": null,
+    "fileMd5": null
+  },
+  "commodityName": "张飞夹心豆卷500g",
+  "firstLevelCategory": "食品饮料",
+  "thirdLevelCategory": "休闲零食",
+  "price": 9.5,
+  "barCode": "5121351159371"
+}
+{
+  "secondLevelCategory": "休闲食品",
+  "description": null,
+  "commodityId": "1000035",
+  "label": [],
+  "imageUrl": {
+    "url": "1000035.jpg",
+    "width": null,
+    "height": null,
+    "fileSize": null,
+    "fileMd5": null
+  },
+  "commodityName": "澳门北海道风味饼干300g",
+  "firstLevelCategory": "食品饮料",
+  "thirdLevelCategory": "饼干蛋糕",
+  "price": 4.5,
+  "barCode": "3583764721496"
+}
+{
+  "secondLevelCategory": "休闲食品",
+  "description": null,
+  "commodityId": "1000036",
+  "label": [],
+  "imageUrl": {
+    "url": "1000036.jpg",
+    "width": null,
+    "height": null,
+    "fileSize": null,
+    "fileMd5": null
+  },
+  "commodityName": "五味格香辣小鱼仔400g",
+  "firstLevelCategory": "食品饮料",
+  "thirdLevelCategory": "休闲零食",
+  "price": 6.0,
+  "barCode": "9400646803488"
+}
+{
+  "secondLevelCategory": "休闲食品",
+  "description": null,
+  "commodityId": "1000037",
+  "label": [
+    "儿童"
+  ],
+  "imageUrl": {
+    "url": "1000037.png",
+    "width": null,
+    "height": null,
+    "fileSize": null,
+    "fileMd5": null
+  },
+  "commodityName": "笨笨狗  粗粮夹心米果海苔味能量棒糙米卷零食膨化休闲零食 紫薯味310g",
+  "firstLevelCategory": "食品饮料",
+  "thirdLevelCategory": "休闲零食",
+  "price": 9.0,
+  "barCode": "4273274564868"
+}
+{
+  "secondLevelCategory": "休闲食品",
+  "description": null,
+  "commodityId": "1000038",
+  "label": [],
+  "imageUrl": {
+    "url": "1000038.jpg",
+    "width": null,
+    "height": null,
+    "fileSize": null,
+    "fileMd5": null
+  },
+  "commodityName": "好巴食豆腐干468g",
+  "firstLevelCategory": "食品饮料",
+  "thirdLevelCategory": "休闲零食",
+  "price": 4.0,
+  "barCode": "6757123572247"
+}
+{
+  "secondLevelCategory": "休闲食品",
+  "description": null,
+  "commodityId": "1000039",
+  "label": [
+    "儿童"
+  ],
+  "imageUrl": {
+    "url": "1000039.jpg",
+    "width": null,
+    "height": null,
+    "fileSize": null,
+    "fileMd5": null
+  },
+  "commodityName": "四洲紫菜即食海苔6束4.5g",
+  "firstLevelCategory": "食品饮料",
+  "thirdLevelCategory": "休闲零食",
+  "price": 2.0,
+  "barCode": "4013808154048"
+}
+{
+  "secondLevelCategory": "饮料冲调",
+  "description": null,
+  "commodityId": "1000040",
+  "label": [],
+  "imageUrl": {
+    "url": "1000040.jpg",
+    "width": null,
+    "height": null,
+    "fileSize": null,
+    "fileMd5": null
+  },
+  "commodityName": "法国evian依云进口天然矿泉水330ml",
+  "firstLevelCategory": "食品饮料",
+  "thirdLevelCategory": "饮用水",
+  "price": 5.0,
+  "barCode": "7219374376215"
+}
+{
+  "secondLevelCategory": "饮料冲调",
+  "description": null,
+  "commodityId": "1000041",
+  "label": [],
+  "imageUrl": {
+    "url": "1000041.jpg",
+    "width": null,
+    "height": null,
+    "fileSize": null,
+    "fileMd5": null
+  },
+  "commodityName": "益力饮用天然矿泉水 380ml",
+  "firstLevelCategory": "食品饮料",
+  "thirdLevelCategory": "饮用水",
+  "price": 2.5,
+  "barCode": "7961464087488"
+}
+{
+  "secondLevelCategory": "饮料冲调",
+  "description": null,
+  "commodityId": "1000042",
+  "label": [],
+  "imageUrl": {
+    "url": "1000042.jpg",
+    "width": null,
+    "height": null,
+    "fileSize": null,
+    "fileMd5": null
+  },
+  "commodityName": "苏打水350ml",
+  "firstLevelCategory": "食品饮料",
+  "thirdLevelCategory": "饮用水",
+  "price": 4.5,
+  "barCode": "6319852411892"
+}
+{
+  "secondLevelCategory": "饮料冲调",
+  "description": null,
+  "commodityId": "1000043",
+  "label": [],
+  "imageUrl": {
+    "url": "1000043.jpg",
+    "width": null,
+    "height": null,
+    "fileSize": null,
+    "fileMd5": null
+  },
+  "commodityName": "苏打水350ml",
+  "firstLevelCategory": "食品饮料",
+  "thirdLevelCategory": "饮用水",
+  "price": 2.5,
+  "barCode": "6042994480303"
+}
+{
+  "secondLevelCategory": "饮料冲调",
+  "description": null,
+  "commodityId": "1000044",
+  "label": [],
+  "imageUrl": {
+    "url": "1000044.jpg",
+    "width": null,
+    "height": null,
+    "fileSize": null,
+    "fileMd5": null
+  },
+  "commodityName": "天地精华新款矿泉苏打水白桃味410ml",
+  "firstLevelCategory": "食品饮料",
+  "thirdLevelCategory": "饮用水",
+  "price": 8.5,
+  "barCode": "5095778297831"
+}
+{
+  "secondLevelCategory": "饮料冲调",
+  "description": null,
+  "commodityId": "1000045",
+  "label": [],
+  "imageUrl": {
+    "url": "1000045.jpg",
+    "width": null,
+    "height": null,
+    "fileSize": null,
+    "fileMd5": null
+  },
+  "commodityName": "汇源100饮用水550ml",
+  "firstLevelCategory": "食品饮料",
+  "thirdLevelCategory": "饮用水",
+  "price": 2.0,
+  "barCode": "7747316354343"
+}
+{
+  "secondLevelCategory": "饮料冲调",
+  "description": "弱碱性水|水质柔软顺滑|稀有小分子团水",
+  "commodityId": "1000046",
+  "label": [],
+  "imageUrl": {
+    "url": "1000046.jpg",
+    "width": null,
+    "height": null,
+    "fileSize": null,
+    "fileMd5": null
+  },
+  "commodityName": "巴马铂泉 Boneau 饮用天然泉水 1.5L",
+  "firstLevelCategory": "食品饮料",
+  "thirdLevelCategory": "饮用水",
+  "price": 8.0,
+  "barCode": "8062435863729"
+}
+{
+  "secondLevelCategory": "饮料冲调",
+  "description": "弱碱性水|水质柔软顺滑|稀有小分子团水",
+  "commodityId": "1000047",
+  "label": [],
+  "imageUrl": {
+    "url": "1000047.jpg",
+    "width": null,
+    "height": null,
+    "fileSize": null,
+    "fileMd5": null
+  },
+  "commodityName": "巴马铂泉 Boneau 饮用天然泉水 500ml",
+  "firstLevelCategory": "食品饮料",
+  "thirdLevelCategory": "饮用水",
+  "price": 6.0,
+  "barCode": "9107406942862"
+}
+{
+  "secondLevelCategory": "饮料冲调",
+  "description": null,
+  "commodityId": "1000048",
+  "label": [],
+  "imageUrl": {
+    "url": "1000048.jpg",
+    "width": null,
+    "height": null,
+    "fileSize": null,
+    "fileMd5": null
+  },
+  "commodityName": "世苏泉 天然苏打水 500ML",
+  "firstLevelCategory": "食品饮料",
+  "thirdLevelCategory": "饮用水",
+  "price": 7.0,
+  "barCode": "8877181583616"
+}
+{
+  "secondLevelCategory": "饮料冲调",
+  "description": null,
+  "commodityId": "1000049",
+  "label": [],
+  "imageUrl": {
+    "url": "1000049.jpg",
+    "width": null,
+    "height": null,
+    "fileSize": null,
+    "fileMd5": null
+  },
+  "commodityName": "世苏泉 天然苏打水350ML",
+  "firstLevelCategory": "食品饮料",
+  "thirdLevelCategory": "饮用水",
+  "price": 9.5,
+  "barCode": "2193726604286"
+}
+{
+  "secondLevelCategory": "饮料冲调",
+  "description": null,
+  "commodityId": "1000050",
+  "label": [],
+  "imageUrl": {
+    "url": "1000050.png",
+    "width": null,
+    "height": null,
+    "fileSize": null,
+    "fileMd5": null
+  },
+  "commodityName": "阿尔山天然矿泉水330ml",
+  "firstLevelCategory": "食品饮料",
+  "thirdLevelCategory": "饮用水",
+  "price": 5.0,
+  "barCode": "7016318436666"
+}
+{
+  "secondLevelCategory": "饮料冲调",
+  "description": null,
+  "commodityId": "1000051",
+  "label": [],
+  "imageUrl": {
+    "url": "1000051.jpg",
+    "width": null,
+    "height": null,
+    "fileSize": null,
+    "fileMd5": null
+  },
+  "commodityName": "康师傅纯净水550ml",
+  "firstLevelCategory": "食品饮料",
+  "thirdLevelCategory": "饮用水",
+  "price": 7.0,
+  "barCode": "9934215377525"
+}
+{
+  "secondLevelCategory": "饮料冲调",
+  "description": null,
+  "commodityId": "1000052",
+  "label": [],
+  "imageUrl": {
+    "url": "1000052.jpg",
+    "width": null,
+    "height": null,
+    "fileSize": null,
+    "fileMd5": null
+  },
+  "commodityName": "巴马铂泉 350ml",
+  "firstLevelCategory": "食品饮料",
+  "thirdLevelCategory": "饮用水",
+  "price": 2.0,
+  "barCode": "8199743883201"
+}
+{
+  "secondLevelCategory": "饮料冲调",
+  "description": null,
+  "commodityId": "1000053",
+  "label": [],
+  "imageUrl": {
+    "url": "1000053.jpg",
+    "width": null,
+    "height": null,
+    "fileSize": null,
+    "fileMd5": null
+  },
+  "commodityName": "恒大原味柠檬味苏打水360ml",
+  "firstLevelCategory": "食品饮料",
+  "thirdLevelCategory": "饮用水",
+  "price": 8.0,
+  "barCode": "4826939764999"
+}
+{
+  "secondLevelCategory": "饮料冲调",
+  "description": null,
+  "commodityId": "1000054",
+  "label": [],
+  "imageUrl": {
+    "url": "1000054.jpg",
+    "width": null,
+    "height": null,
+    "fileSize": null,
+    "fileMd5": null
+  },
+  "commodityName": "巴黎水（Perrier）330ml",
+  "firstLevelCategory": "食品饮料",
+  "thirdLevelCategory": "饮用水",
+  "price": 8.0,
+  "barCode": "2748723901445"
+}
+{
+  "secondLevelCategory": "饮料冲调",
+  "description": null,
+  "commodityId": "1000055",
+  "label": [],
+  "imageUrl": {
+    "url": "1000055.jpg",
+    "width": null,
+    "height": null,
+    "fileSize": null,
+    "fileMd5": null
+  },
+  "commodityName": "白龙湖天然苏打水350ml",
+  "firstLevelCategory": "食品饮料",
+  "thirdLevelCategory": "饮用水",
+  "price": 6.5,
+  "barCode": "8349291169204"
+}
+{
+  "secondLevelCategory": "饮料冲调",
+  "description": null,
+  "commodityId": "1000056",
+  "label": [],
+  "imageUrl": {
+    "url": "1000056.jpg",
+    "width": null,
+    "height": null,
+    "fileSize": null,
+    "fileMd5": null
+  },
+  "commodityName": "昆仑山 饮用天然矿泉水 510ml",
+  "firstLevelCategory": "食品饮料",
+  "thirdLevelCategory": "饮用水",
+  "price": 6.5,
+  "barCode": "3903940515267"
+}
+{
+  "secondLevelCategory": "饮料冲调",
+  "description": null,
+  "commodityId": "1000057",
+  "label": [
+    "优质"
+  ],
+  "imageUrl": {
+    "url": "1000057.jpg",
+    "width": null,
+    "height": null,
+    "fileSize": null,
+    "fileMd5": null
+  },
+  "commodityName": "可口可乐 冰露饮用矿物质水矿泉水550ml",
+  "firstLevelCategory": "食品饮料",
+  "thirdLevelCategory": "饮用水",
+  "price": 3.0,
+  "barCode": "5437950076731"
+}
+{
+  "secondLevelCategory": "饮料冲调",
+  "description": null,
+  "commodityId": "1000058",
+  "label": [
+    "优质"
+  ],
+  "imageUrl": {
+    "url": "1000058.jpg",
+    "width": null,
+    "height": null,
+    "fileSize": null,
+    "fileMd5": null
+  },
+  "commodityName": "HORIEN5°C  克东天然苏打水 500ml",
+  "firstLevelCategory": "食品饮料",
+  "thirdLevelCategory": "饮用水",
+  "price": 6.5,
+  "barCode": "2014478994269"
+}
+{
+  "secondLevelCategory": "饮料冲调",
+  "description": null,
+  "commodityId": "1000059",
+  "label": [],
+  "imageUrl": {
+    "url": "1000059.jpg",
+    "width": null,
+    "height": null,
+    "fileSize": null,
+    "fileMd5": null
+  },
+  "commodityName": "天地精华矿泉水350ml",
+  "firstLevelCategory": "食品饮料",
+  "thirdLevelCategory": "饮用水",
+  "price": 9.5,
+  "barCode": "5520389331789"
+}
+{
+  "secondLevelCategory": "饮料冲调",
+  "description": "口感甘甜|天然健康|补充矿物质",
+  "commodityId": "1000060",
+  "label": [],
+  "imageUrl": {
+    "url": "1000060.jpg",
+    "width": null,
+    "height": null,
+    "fileSize": null,
+    "fileMd5": null
+  },
+  "commodityName": "阿尔山（arshaan）山泉 天然矿泉水500ml",
+  "firstLevelCategory": "食品饮料",
+  "thirdLevelCategory": "饮用水",
+  "price": 9.5,
+  "barCode": "7149484475617"
+}

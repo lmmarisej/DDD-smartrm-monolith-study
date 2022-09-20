@@ -1,0 +1,85 @@
+server:
+  port: 8081
+  tomcat:
+    maxThreads: 200
+    maxConnections: 1000
+    acceptCount: 100
+spring:
+  mvc:
+    static-path-pattern: /static/**
+  resources:
+    static-locations: classpath:/static/
+  datasource:
+    url:
+      jdbc:mysql://rm-uf67z9h562mtr1l54.mysql.rds.aliyuncs.com:3306/smartrm_monolith?useSSL=false&useUnicode=true&characterEncoding=UTF-8
+    #    driver-class-name: com.mysql.jdbc.Driver
+    username:
+    password:
+  quartz:
+    #相关属性配置
+    properties:
+      org:
+        quartz:
+          scheduler:
+            instanceName: clusteredScheduler
+            instanceId: AUTO
+          jobStore:
+            class: org.quartz.impl.jdbcjobstore.JobStoreTX
+            driverDelegateClass: org.quartz.impl.jdbcjobstore.StdJDBCDelegate
+            tablePrefix: QRTZ_
+            isClustered: true
+            clusterCheckinInterval: 10000
+            useProperties: false
+            acquireTriggersWithinLock: true
+          threadPool:
+            class: org.quartz.simpl.SimpleThreadPool
+            threadCount: 10
+            threadPriority: 5
+            threadsInheritContextClassLoaderOfInitializingThread: true
+    #数据库方式
+    job-store-type: jdbc
+mybatis:
+  configuration:
+    map-underscore-to-camel-case: true
+    cache-enabled: false
+commodity:
+  file:
+    json:
+      path: commodity_new.json
+jwt:
+  key: c21hcnRybS1kZGRzbWFydHJtLWRkZHNtYXJ0cm0tZGRk
+  expirationSecs: 2592000
+logging:
+  level:
+    com:
+      smartrm:
+        smartrmmonolith:
+          trade:
+            infrastructure:
+              mapper: debug
+            application: debug
+aliyun:
+  accessKey:
+  accessSecret:
+  iot:
+    endpoint: iot.cn-shanghai.aliyuncs.com
+    consumerGroup:
+    amqp:
+      host: xxxx.iot-amqp.cn-shanghai.aliyuncs.com
+    instanceId:
+wechat:
+  pay:
+    appId: wx8888888888888888
+    mchId: 12888888
+    key: 88888888888888888888888888888888
+    certPath: /path/to/cert
+    notifyUrl: http://smartrm.techcoffee.com/payment/wx/notify
+kafka:
+  server: 172.28.114.98:9092,172.28.114.97:9092,172.28.114.99:9092
+  retries: 3
+  batch:
+    size: 16384
+  linger:
+    ms: 1
+  buffer:
+    memory: 33554432
