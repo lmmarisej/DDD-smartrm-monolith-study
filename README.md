@@ -1,3 +1,3 @@
 # smartrm-monolith-study
 
-单体架构第三章、第四章各小节对应代码
+使用 DDD 对 IoT 贩卖机运营域进行分析、建模和设计。
